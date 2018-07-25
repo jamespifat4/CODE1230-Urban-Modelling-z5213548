@@ -1,4 +1,9 @@
 body {
+background: #ffcccc;
+text-align: center;
+font-family: Helvetica;
+font-size:24px;
+}
 
  
 #myDIV {
@@ -21,13 +26,6 @@ body {
     to {background-color: FF00FF;}
 }
 
-  
-  
-#background: #ffcccc;
-text-align: center;
-font-family: Helvetica;
-font-size:24px;
-}
 
 h1 {
 border-style: solid;
