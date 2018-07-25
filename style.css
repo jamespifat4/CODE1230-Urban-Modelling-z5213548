@@ -1,6 +1,6 @@
 body {
 
-<style> 
+ 
 #myDIV {
     width: 300px;
     height: 200px;
@@ -20,7 +20,7 @@ body {
     from {background-color: 000080;}
     to {background-color: FF00FF;}
 }
-</style>  
+
   
   
 #background: #ffcccc;
