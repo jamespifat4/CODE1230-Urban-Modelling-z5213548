@@ -6,27 +6,6 @@ font-size:24px;
 }
 
  
-#myDIV {
-    width: 300px;
-    height: 200px;
-    background: 000080;
-    -webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
-    animation: mymove 5s infinite;
-}
-
-/* Chrome, Safari, Opera */
-@-webkit-keyframes mymove {
-    from {background-color: 000080;}
-    to {background-color: FF00FF;}
-}
-
-/* Standard syntax */
-@keyframes mymove {
-    from {background-color: 000080;}
-    to {background-color: FF00FF;}
-}
-
-
 h1 {
 border-style: solid;
 border-width: 10px;
